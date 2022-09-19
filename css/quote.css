@@ -1,0 +1,16 @@
+#quote {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-size: 19px;
+    color: turquoise;
+}
+
+#quote span:last-child {
+    color:blueviolet;
+    font-weight: 800;
+}
+
+
+
+
